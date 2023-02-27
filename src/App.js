@@ -1,9 +1,11 @@
 import "./App.css";
-import Debouncing from "./Debouncing";
+import HighOrderFn from "./HighOrderFn";
+//import Debouncing from "./Debouncing";
 function App() {
   return (
     <>
-      <Debouncing />
+      {/* <Debouncing /> */}
+      <HighOrderFn />
     </>
   );
 }
