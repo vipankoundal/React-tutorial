@@ -1,11 +1,13 @@
 import "./App.css";
-import HighOrderFn from "./HighOrderFn";
+import Home from "./Home";
+//import HighOrderFn from "./HighOrderFn";
 //import Debouncing from "./Debouncing";
 function App() {
   return (
     <>
       {/* <Debouncing /> */}
-      <HighOrderFn />
+      {/* <HighOrderFn /> */}
+      <Home />
     </>
   );
 }
